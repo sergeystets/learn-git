@@ -5,7 +5,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Main feature goes here...");
-        System.out.println("Some other code");
+        System.out.println("Experimental code goes here...");
     }
 }
