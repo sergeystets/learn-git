@@ -15,4 +15,11 @@ public class Person {
     public String getFullName() {
         return fullName;
     }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "fullName='" + fullName + '\'' +
+                '}';
+    }
 }
