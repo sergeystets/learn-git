@@ -7,4 +7,8 @@
 public class Person {
 
     private String fullName;
+
+    public void setFullName(String fullName) {
+        this.fullName = fullName;
+    }
 }
