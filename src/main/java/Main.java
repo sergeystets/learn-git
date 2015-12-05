@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Experimental code goes here...");
         // waiting for a person class here
         Person person = new Person("Sergii Stets");
+        System.out.println(person);
     }
 }
