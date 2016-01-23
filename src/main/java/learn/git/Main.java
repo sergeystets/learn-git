@@ -11,5 +11,8 @@ public class Main {
         // waiting for a person class here
         Person person = new Person("Sergii Stets");
         System.out.println(person);
+        if (person.getFullName().equalsIgnoreCase("Sergii Stets")){
+            System.out.println("We found him");
+        }
     }
 }
