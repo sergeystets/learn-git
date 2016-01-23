@@ -13,6 +13,7 @@ public class Main {
         System.out.println(person);
         if (person.getFullName().equalsIgnoreCase("Sergii Stets")){
             System.out.println("We found him");
+            System.out.println("aaaaaa");
         }
     }
 }
