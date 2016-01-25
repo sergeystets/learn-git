@@ -9,6 +9,7 @@ package learn.git;
 public class Person {
 
     private String fullName;
+    private int age;
 
     public Person(String fullName) {
         this.fullName = fullName;
